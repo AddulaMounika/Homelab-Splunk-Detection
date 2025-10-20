@@ -1,8 +1,7 @@
 # Homelab-Splunk-Detection
 # 🔐 Windows Endpoint Monitoring Lab with Splunk + Sysmon
 
-This repository sets up a Windows Kali home lab to collect and investigate endpoint telemetry using Sysmon and Splunk. It mirrors a narrative style (emoji, step headers, screenshots), but all actions are **benign** and focused on detection.
-
+This repository sets up a Windows Kali home lab to collect and investigate endpoint telemetry using Sysmon and Splunk. 
 > Education and defense only. 
 
 ---
