@@ -1,7 +1,7 @@
 # Homelab-Splunk-Detection
 # 🔐 Windows Endpoint Monitoring Lab with Splunk + Sysmon
 
-Built a contained home lab to simulate endpoint monitoring and practice detecting attacker-like behavior using Windows telemetry and Splunk
+I built a contained home lab to simulate endpoint monitoring and practice detecting attacker-like behavior using Windows telemetry and Splunk. This work was for education and defensive practice only
 > Education and defense only. 
 
 ---
